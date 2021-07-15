@@ -3,7 +3,7 @@ import 'package:adobe_xd/pinned.dart';
 import './OnboardingScreen2.dart';
 import 'package:adobe_xd/page_link.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-//mhgfmhg
+mhgfmhg
 
 class OnboardingScreen1 extends StatelessWidget {
   static const routname = "/onboardingscreen1";
